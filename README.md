@@ -46,7 +46,7 @@ Follow these simple steps to run **Crowdcube** on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/crowdcube.git
+   git clone https://github.com/Shakaet/phA-10-Client-Crowd_Founding.git
    cd crowdcube
    npm install
    npm run dev
